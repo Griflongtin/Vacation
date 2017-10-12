@@ -3,3 +3,6 @@
   height: auto;
   padding: 20px;
 }
+.text-danger ~ p {
+  color: green;
+}
